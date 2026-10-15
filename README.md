@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nezaal/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nezaal/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/Nezaal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nezaal/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -39,4 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nezaal/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/Nezaal/DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Nezaal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
